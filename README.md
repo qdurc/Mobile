@@ -1,4 +1,4 @@
-# weather_new
+# ClimaApp
 
 A new Flutter project.
 
